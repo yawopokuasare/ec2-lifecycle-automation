@@ -11,6 +11,8 @@ EventBridge Rules → Lambda Functions → EC2 Instances
                        CloudWatch Logs
 ```
 
+<img width="13616" height="8005" alt="Image" src="https://github.com/user-attachments/assets/a7c7f0d8-e87b-4d5f-ada4-a606b4c22b29" />
+
 ## Technologies Used
 - **AWS Services:** Lambda, EventBridge, IAM, EC2, CloudWatch
 - **Language:** Python 3.x (Boto3 SDK)
